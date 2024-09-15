@@ -2,7 +2,7 @@ import java.util.Arrays;
 class Anagram {
     public static void main(String[] args) {
         String s1="Krishna";
-        String s2="Gowthami";
+        String s2="maawa";
         char[] c1=s1.toCharArray();
         char[] c2=s2.toCharArray();
         Arrays.sort(c1);
